@@ -1,0 +1,11 @@
+body {
+  background-color: #080808;
+}
+body::selection {
+  background-color: #080808;
+  color: #fff;
+}
+
+::-webkit-scrollbar {
+  display: none;
+}
